@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/johnland/problem
+
 #include <iostream>
 #include <vector>
 #include <cmath>
