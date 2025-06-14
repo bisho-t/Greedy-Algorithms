@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GreedyAlgorithm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Problem1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problem1-Debug-96b919bdcae27ae1b169.json",
+					"name" : "Problem1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problem2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problem2-Debug-171ea593cca23c510d96.json",
+					"name" : "Problem2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problem3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problem3-Debug-e0a3f422628cc42ddf79.json",
+					"name" : "Problem3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problem4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problem4-Debug-99d1c8f14e0ecad50e55.json",
+					"name" : "Problem4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Problem5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problem5-Debug-51d86035ae43351445f4.json",
+					"name" : "Problem5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lenovo/CLionProjects/Algorithm/GreedyAlgorithm/cmake-build-debug",
+		"source" : "C:/Users/lenovo/CLionProjects/Algorithm/GreedyAlgorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

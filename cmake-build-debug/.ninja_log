@@ -1,0 +1,19 @@
+# ninja log v6
+6	75	7596068942775765	CMakeFiles/GreedyAlgorithm.dir/Problem1_Greedy.cpp.obj	bb7f3a6919a5823c
+23	93	7596068440451758	CMakeFiles/GreedyAlgorithm.dir/Problem2_Greedy.cpp.obj	c5b2a118ca5f270b
+23	115	7596068365866966	CMakeFiles/GreedyAlgorithm.dir/Problem4_Greedy.cpp.obj	312d767cf5f26096
+30	111	7596068200288542	CMakeFiles/GreedyAlgorithm.dir/problem5_Greedy.cpp.obj	b1359ea791ddf2f6
+25	915	7596073089582694	CMakeFiles/GreedyAlgorithm.dir/problem3_Greedy.cpp.obj	bbd3720fdf030e16
+915	1104	7596073098475487	GreedyAlgorithm.exe	c09708a83db3b17e
+16	55	7716381517973674	CMakeFiles/Problem1.dir/Problem1_Greedy.cpp.obj	bc176302db6b506e
+1	271	7716381879636516	CMakeFiles/Problem1.dir/Problem1_Greedy.cpp.obj	bc176302db6b506e
+272	345	7716381882337922	Problem1.exe	dce49b7089515a31
+21	59	7716381970694427	CMakeFiles/Problem2.dir/Problem2_Greedy.cpp.obj	956a40929bd2e8cf
+25	355	7716382358792773	CMakeFiles/Problem2.dir/Problem2_Greedy.cpp.obj	956a40929bd2e8cf
+356	427	7716382362094577	Problem2.exe	202a8d42f2d676ac
+26	449	7716382409297028	CMakeFiles/Problem3.dir/problem3_Greedy.cpp.obj	7f711234a16e5675
+449	538	7716382413520816	Problem3.exe	8ed30158bdf0e3be
+22	336	7716382458245204	CMakeFiles/Problem4.dir/Problem4_Greedy.cpp.obj	1bb2868cdeec90fd
+336	407	7716382461387546	Problem4.exe	544760fafde8f8f0
+22	322	7716382539365857	CMakeFiles/Problem5.dir/problem5_Greedy.cpp.obj	f9036e6dae925a5d
+322	403	7716382542358199	Problem5.exe	182b3dd9ce2f503e
